@@ -1,0 +1,505 @@
+favicon: https://gitee.com/Langwenchong/figure-bed/raw/master/宇航员.SVG.png
+banner: https://gitee.com/Langwenchong/figure-bed/raw/master/uugai.com_1626063299631.png
+
+logo:
+  expanded: https://gitee.com/Langwenchong/figure-bed/raw/master/uugai.com_1626063299631.png
+  collapsed: https://gitee.com/Langwenchong/figure-bed/raw/master/uugai.com-1626063308478.png
+  dark: https://gitee.com/Langwenchong/figure-bed/raw/master/uugai.com_1626097409216.png
+
+flag:
+  icon: flag-cn
+  name: Chinese
+
+search: true
+
+githubCorner: '<a href="https://github.com/Langwenchong/navigation" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>'
+
+menu:
+  - name: 常用工具
+    icon: far fa-star
+    submenu: 
+      - name: 参考文档
+        icon: fas fa-book
+        config: books
+      - name: 图床工具
+        icon: fas fa-images
+        config: imagebeds
+      - name: 资源共享
+        icon: fas fa-share
+        config: share
+      - name: 问题查询
+        icon: fas fa-question
+        config: answers
+  - name: 线上办公
+    icon: far fa-star
+    submenu:
+      - name: 线上写作
+        icon: fas fa-keyboard
+        config: write
+      - name: 线上绘图
+        icon: fas fa-highlighter
+        config: draw
+      - name: 数值计算
+        icon: fas fa-less-than-equal
+        config: math
+      - name: 文件处理
+        icon: fas fa-briefcase
+        config: files
+      - name: 文献翻译
+        icon: fas fa-american-sign-language-interpreting
+        config: interpret
+  - name: 程序猿🙈
+    icon: far fa-star
+    submenu: 
+      - name: 在线编程
+        icon: fas fa-code
+        config: code
+      - name: 刷题网站
+        icon: fas fa-coffee
+        config: oj
+      - name: 站长工具
+        icon: fas fa-drafting-compass
+        config: blog
+      - name: 托管仓库
+        icon: fas fa-box
+        config: warehouse
+      - name: 开源仓库
+        icon: fas fa-box-open
+        config: open-warehouse
+  - name: 设计美化
+    icon: fas fa-star
+    submenu:
+      - name: 页面设计
+        icon: fas fa-magic
+        config: design
+      - name: 颜色搭配
+        icon: fas fa-paint-brush
+        config: colors
+      - name: 图片素材
+        icon: fas fa-camera-retro
+        config: images
+
+tools:
+  - name: Child Page
+    url: /child
+    img: /images/logos/myblog.png
+    description: 子页面测试
+
+books:
+  - name: CS八股文宝典
+    url: http://www.cyc2018.xyz/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712130149.png
+    description: 包含算法、计算机基础、数据库、java、等程序猿必备知识
+  - name: W3school
+    url: https://www.w3school.com.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712130553.png
+    description: 领先的 Web 技术教程
+  - name: 菜鸟教程
+    url: https://www.runoob.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712130825.png
+    description: 所有开发技术均可以在这里学习,学的不仅是技术，更是梦想！
+  - name: 廖雪峰官方教程
+    url: https://www.liaoxuefeng.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712131209.png
+    description: 跟着大牛廖老师畅游知识海洋！
+  - name: OI WIKI
+    url: https://oi-wiki.org/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712131514.png
+    description: ACMer大佬的算法教程,菜鸟必看！
+  - name: 大黑书真题讲解
+    url: https://www.nowcoder.com/schoolbooks
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712132816.png
+    description: 牛客网对大黑书课后知识解答！
+  - name: 考研真题讲解
+    url: https://www.nowcoder.com/kaoyan
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712132816.png
+    description: 牛客网对各高校cs考研课后知识解答！
+  - name: VUE中文文档
+    url: https://v3.cn.vuejs.org/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712133021.png
+    description: 渐进式 JavaScript 框架参考文档
+
+imagebeds: 
+  - name: 聚合图床
+    url: https://www.superbed.cn/
+    img: https://lsky.antmoe.com/favicon.ico
+    description: 站长强烈推荐使用的长期有效且免费无限存储图床
+  - name: smms图床
+    url: https://sm.ms/
+    img: https://lsky.antmoe.com/favicon.ico
+    description: 国外强推安全性极强的图床网站，但是超限收费
+  - name: 去不图床
+    url: https://7bu.top/
+    img: https://lsky.antmoe.com/favicon.ico
+    description: 老牌免费图床网站，值的信赖！
+  - name: imgURL免费图床
+    url: https://imgurl.org/
+    img: https://lsky.antmoe.com/favicon.ico
+    description: 老牌免费图床网站，值的信赖！
+
+files:
+  - name: 转换成pdf
+    url: https://smallpdf.com/cn/pdf-converter
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712135053.png
+    description: smallpdf提供技术支持，但是一天只能免费使用2次
+  - name: 图片压缩
+    url: https://www.tutieshi.com/compress/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712135402.png
+    description: 图贴士提供技术支持，免费无限制使用
+  - name: 消除背景
+    url: https://www.remove.bg/zh/upload
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712135730.png
+    description: 迅速去除图片背景
+  - name: docsmall
+    url: https://docsmall.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712135931.png
+    description: 包含对图片的各种常用处理
+
+share: 
+  - name: 鸠摩搜书
+    url: https://www.jiumodiary.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712140503.png
+    description: 白嫖海量图书必备网站
+  - name: 人人文库
+    url: https://www.renrendoc.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712142042.png
+    description: 白嫖海量图书必备网站
+  - name: 盘多多
+    url: https://www.panduoduo.org/dm/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/001-仓库.png
+    description: 全网免费资源搜索下载
+  - name: 游侠网
+    url: https://www.ali213.net/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712140810.png
+    description: 免费下载单机游戏，但是含有大量广告
+  - name: 极简插件
+    url: https://chrome.zzzmh.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712141102.png
+    description: 谷歌浏览器插件下载
+  - name: 吾爱破解
+    url: https://www.52pojie.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712141308.png
+    description: 由众多热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳
+  - name: AGE动漫
+    url: http://agefans.top/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712141842.png
+    description: 免费观看动漫网站
+  - name: 影视大厅
+    url: http://xinxx.cn/app/index.html?id=9999
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712142602.png
+    description: 海量影视资源分享，使用百度网盘下载
+
+math: 
+  - name: 矩阵计算器
+    url: https://matrix.reshish.com/zh/gauss-jordanElimination.php
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/计算器.png
+    description: 支持线性代数全部矩阵计算公式并给出详细的计算过程
+  - name: 积分计算器
+    url: https://www.wolframalpha.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712160555.png
+    description: 支持各种复杂积分的计算并给出详细的计算过程
+  - name: 微分计算器
+    url: https://daoshu.91maths.com/s/e%5Ex
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/计算器.png
+    description: 支持各种复杂公式的求导并给出详细的计算过程
+  - name: 单位换算
+    url: https://cn.unithelper.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712161329.png
+    description: 支持所有单位的换算器
+  - name: 在线Octave
+    url: https://octave-online.net/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712171442.png
+    description: 在线“matlab"工具
+answers:
+  - name: csdn
+    url: https://www.csdn.net/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712161544.png
+    description: 虽然水文很多，但是对于菜鸟来说完全能够解决疑问！
+  - name: 简书
+    url: https://www.jianshu.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712161709.png
+    description: 仔细筛选，可以得到许多有价值的前辈的经验之谈！
+  - name: Stack Overflow
+    url: https://stackoverflow.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712161937.png
+    description: 英文技术交流论坛，各路神仙大牛为你解答！
+  - name: 知乎
+    url: https://www.zhihu.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712162216.png
+    description: 有问题，上知乎！查找攻略极佳之地！
+  - name: 掘金
+    url: https://juejin.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712172940.png
+    description: 含金量极高的代码攻略网站
+  - name: 博客园
+    url: https://www.cnblogs.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712173053.png
+    description: 博客大佬聚集地,好文不断，等你来读！
+
+interpret: 
+  - name: DeepL翻译
+    url: https://www.deepl.com/translator
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712162925.png
+    description: 人工智能支持自学习的世界最强大的翻译软件！
+  - name: 有道pdf翻译
+    url: https://pdf.youdao.com/docview.html?key=F7858338E41944E0AEE706713EBBC3B0&from=en&to=zh-CHS&src=fanyiweb&isUseTerm=1&mode=PICMODE
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712163210.png
+    description: 支持在线对照翻译pdf文件！
+  - name: 讯飞语音翻译
+    url: https://www.iflyrec.com/html/addMachineOrder.html
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712163454.png
+    description: 强大的语音翻译，但是需要付费。
+
+code:
+  - name: 编程中国
+    url: https://www.bccn.net/run/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712163758.png
+    description: 强大的线上编程软件，可支持多种编程语言.
+  - name: code pen
+    url: https://codepen.io/marcobiedermann/pen/Fybpf
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712163939.png
+    description: 前端开发人员必备在线编辑器
+  - name: BEJSON
+    url: http://www.bejson.com/jsoneditoronline/
+    img: https://ae01.alicdn.com/kf/Hac93258007754340927a1e0712c760ddf.png
+    description: 在线json编辑器
+  - name: flex布局可视化
+    url: http://bigerfe.com/yflex
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712173853.png
+    description: 可视化的方式看flex布局排版
+write:
+  - name: Arya在线md
+    url: https://markdown.lovejade.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712165757.png
+    description: 强大的线上markdown编辑文件，语法与typora一致
+  - name: 腾讯在线多人协作word
+    url: https://docs.qq.com/doc/DWXZ0R2pTZUlrRHFP
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712170133.png
+    description: 多人同时线上合作完成word，效率高效
+  - name: 在线LateX公式编辑器
+    url: https://www.latexlive.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712170342.png
+    description: 实时对比输出lateX渲染公式，与MathJax语法一致
+
+draw:
+  - name: 亿图图示在线绘图
+    url: https://www.edrawmax.cn/online/zh/workbench
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712171120.png
+    description: 在线绘制电路图、算法点阵图等复杂图像
+  - name: 亿图脑图
+    url: https://mm.edrawsoft.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712171724.png
+    description: 在线绘制思维导图，功能媲美xmind
+  - name: 网页缩略图
+    url: http://s.zcjun.com/
+    img: https://ae01.alicdn.com/kf/Hc23a4ccd5cb44361b85d69bcdea4ab73D.png
+    description: 在线生成网页预览缩略图
+
+oj:
+  - name: leetcode
+    url: https://leetcode-cn.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712174059.png
+    description: 全球极客挚爱的技术成长平台
+  - name: 牛客oj
+    url: https://ac.nowcoder.com/acm/contest/vip-index
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712174334.png
+    description: 专业的编程算法训练平台，包括ACM校赛、ICPC、CCPC、CSP、信息学省选、NOI等编程比赛提高训练营
+  - name: 洛谷
+    url: https://www.luogu.com.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712174548.png
+    description: 致力于为参加noip、noi、acm的选手提供清爽、快捷的编程体验
+  - name: new online judge
+    url: https://ac.nowcoder.com/acm/contest/vip-index
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712174906.png
+    description: 专业的编程算法训练平台，包括ACM校赛、ICPC、CCPC、CSP、信息学省选、NOI等编程比赛提高训练营
+  - name: codeforces
+    url: https://codeforces.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712175027.png
+    description: oj版"穿越火线"，我看今天晚上就是上分吉日！
+  - name: PTA
+    url: https://cn.bing.com/search?q=pta&PC=U316&FORM=CHROMN
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712202458.png
+    description: 程序设计类实验辅助教学平台
+  - name: ccf csp题库
+    url: http://118.190.20.162/home.page
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712202643.png
+    description: 各大高校考研免机试考核认证
+  - name: TJU OJ
+    url: http://tjuacm.chaosheng.top/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712202819.png
+    description: 好歹是母校的oj网,给个位置~
+
+blog:
+  - name: 测速网站
+    url: https://ping.chinaz.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712203114.png
+    description: 快速测试网站加载速度，ping连通性等指标
+  - name: 在线http接口测试
+    url: https://www.sojson.com/http/test.html
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712203245.png
+    description: 线上版"postman",实时查看接口json数据解析
+  - name: 腾讯云服务
+    url: https://cloud.tencent.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712203454.png
+    description: 站长在用，强烈推荐！
+  - name: 百度统计
+    url: https://tongji.baidu.com/web/27949022/welcome/login?castk=LTE%3D
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712203739.png
+    description: 实时查看博客访问数据统计，看看谁老来扒取你的代码！
+  - name: 阿里云
+    url: https://cn.aliyun.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712203945.png
+    description: 云服务当然是收费的，有时需要货比三家！
+  - name: 又拍云
+    url: https://www.upyun.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712204054.png
+    description: 云服务当然是收费的，有时需要货比三家！
+
+warehouse:
+  - name: github
+    url: https://github.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712204714.png
+    description: 是个程序猿就知道的托管仓库
+  - name: gitee
+    url: https://gitee.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712204848.png
+    description: 中文版"github",github宕机时发挥至关重要的作用！
+  - name: coding
+    url: https://coding.net/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712204253.png
+    description: 提供免费的代码项目托管，真香！
+  - name: Vercel
+    url: https://vercel.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712204525.png
+    description: 提供免费的代码项目托管，真香！
+  - name: Gimhoy音乐盘
+    url: https://music.gimhoy.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712210250.png
+    description: 上传音乐生成外联，博客开发必备工具
+
+open-warehouse:
+  - name: fontawesome图标库
+    url: http://fontawesomelib.cn/releases/5.15.3/icon/books/duotone.html
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712205259.png
+    description: 全世界最流行的矢量图标库
+  - name: iconfont-阿里巴巴矢量图标库
+    url: https://www.iconfont.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712205118.png
+    description: 国产图标库的骄傲！
+  - name: boxicons矢量图标库
+    url:  https://boxicons.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712205709.png
+    description: 虽然小众，但是很漂亮！
+  - name: emoji表情包
+    url: http://www.fhdq.net/emoji/emojifuhao.html
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712205831.png
+    description: 全世界最流行的表情包
+  - name: echarts图标库
+    url: https://echarts.apache.org/zh/index.html
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712205940.png
+    description: 一个基于 JavaScript 的开源可视化图表库，数据展示必备
+  - name: elementUI组件库
+    url: https://element.eleme.cn/#/zh-CN
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712210059.png
+    description: 一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
+
+design:
+  - name: CID前端web设计库
+    url: https://code.5g-o.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/设计.png
+    description: 为你的前端页面设计提供丰富的灵感
+  - name: footer懒设计
+    url: https://www.fotor.com.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712210804.png
+    description: 为你的博文设计一张精美的头图
+  - name: 可画设计
+    url: https://www.canva.cn/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712211656.png
+    description: 为你的博文设计一张精美的头图
+
+colors:
+  - name: Material Palette配色推荐
+    url: https://www.materialpalette.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712212017.png
+    description: 提供丰富的颜色搭配设计同时还提供icon
+  - name: flatuicolorpick配色推荐
+    url: https://www.flatuicolorpicker.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712212241.png
+    description: 为每一个主色都提供十个以上的颜色设计代码
+  - name: flatuicolors配色推荐
+    url: https://flatuicolors.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712212405.png
+    description: 提供多套完整的配色搭配系
+  - name: 小影颜色搭配工具箱
+    url: http://tool.c7sky.com/webcolor/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/线性调色盘.png
+    description: 提供好看的三色主色系搭配方案
+
+images:
+  - name: Lorem Picsum图片快速生成
+    url: https://picsum.photos/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712213141.png
+    description: 直接加入图片高宽以及random序号即可迅速生成随机图片
+  - name: WALLPAPER
+    url: https://wall.alphacoders.com/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712213309.png
+    description: 精美高清4k桌面壁纸提供
+about:
+  url: /about/
+  icon: far fa-heart
+  name: 关于本站
+
+aboutPage:
+  website:
+    head: 关于本站
+    html: '<blockquote><p>本站是由<a href="https://wenchong.space">雨中站长</a>基于hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>创建的网址收藏百宝箱。</p></blockquote>'
+  webmaster:
+    head: 关于站长
+    name: 雨中的博客
+    url: https://wenchong.space/
+    img: https://gitee.com/Langwenchong/figure-bed/raw/master/author.jpeg
+    description: 频繁记录，只因生活和你太值得❤
+    html: '<br /><blockquote><p>如果喜欢此网站，不如 <kbd>Ctrl</kbd> + <kbd>D</kbd> 收藏一下？</p></blockquote>'
+
+since: 2020
+
+busuanzi:
+  enable: true
+  position: sidebar # 'footer','sidebar'
+  pv: 本站总访问量$pv
+  uv: 本站总访客数$uv
+
+custom:
+  head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+  body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+
+js:
+  header: /js/header.js
+  footer: /js/footer.js
+  jquery: /js/jquery-1.11.1.min.js
+  bootstrap: /js/bootstrap.min.js
+  TweenMax: /js/TweenMax.min.js
+  resizeable: /js/resizeable.min.js
+  joinable: /js/joinable.js
+  xenonApi: /js/xenon-api.min.js
+  xenonToggles: /js/xenon-toggles.min.js
+  xenonCustom: /js/xenon-custom.min.js
+  lozad: /js/lozad.min.js
+  html5shiv: /js/html5shiv.min.js
+  respond: /js/respond.min.js
+  busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+
+css:
+  hclonely: /css/hclonely.css
+  fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
+  linecons: /css/fonts/linecons/css/linecons.min.css
+  fontawesome: /css/fonts/fontawesome/css/all.min.css
+  bootstrap: /css/bootstrap.min.css
+  xenonCore: /css/xenon-core.min.css
+  xenonComponents: /css/xenon-components.min.css
+  xenonSkins: /css/xenon-skins.min.css
+  nav: /css/nav.min.css
