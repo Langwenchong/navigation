@@ -309,7 +309,7 @@ oj:
     img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712174548.png
     description: 致力于为参加noip、noi、acm的选手提供清爽、快捷的编程体验
   - name: new online judge
-    url: https://ac.nowcoder.com/acm/contest/vip-index
+    url: http://oj.ecustacm.cn/
     img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712174906.png
     description: 专业的编程算法训练平台，包括ACM校赛、ICPC、CCPC、CSP、信息学省选、NOI等编程比赛提高训练营
   - name: codeforces
@@ -317,7 +317,7 @@ oj:
     img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712175027.png
     description: oj版"穿越火线"，我看今天晚上就是上分吉日！
   - name: PTA
-    url: https://cn.bing.com/search?q=pta&PC=U316&FORM=CHROMN
+    url: https://pintia.cn/
     img: https://gitee.com/Langwenchong/figure-bed/raw/master/20210712202458.png
     description: 程序设计类实验辅助教学平台
   - name: ccf csp题库
